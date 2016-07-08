@@ -3,5 +3,8 @@ Some solutions and material from a [previous offering](http://www.cs.ubc.ca/~nan
 
 Also [340](http://www.cs.ubc.ca/~nando/340-2012/).
 
+Implementations in MATLAB instead of python.
 
-1. Homework 5
+## 1. Homework 5
+- ridge regression, lasso, and elastic net paths
+- cross validation for hyperparameter selection
