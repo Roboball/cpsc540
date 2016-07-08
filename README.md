@@ -9,5 +9,7 @@ Implementations in MATLAB instead of python.
 http://www.cs.ubc.ca/~nando/340-2012/lectures/homework5.pdf
 - ridge regression, lasso, and elastic net paths
 - cross validation for hyperparameter selection
+
+
 __TODO:__
 - Question 2: Twitter sentiment classification
